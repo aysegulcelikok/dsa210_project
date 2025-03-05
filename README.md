@@ -1,12 +1,42 @@
-# dsa210_project
-DSA 210 project
-####
-#PROJE DE NE YAPICAM/ HANGİ İKİ DATA?
-## What to present
-●	Motivation: Why are you working on this project?
-●	Data source: Where did you get this data? How did you collect it? 
-●	Data analysis: Techniques used, different stages of the analysis 
-●	Findings: What are the interesting findings that you found in this project? 
-●	Limitations and future work: What could be done better? Do you have any future plans about your project?
-![image](https://github.com/user-attachments/assets/cc15dff1-b4e0-4fe6-abe9-af5fa3d146bd)
+## DSA 210 PROJECT
+## Motivation
+As a final-year university student, balancing my professional responsibilities and spending time for entertainment is crucial for me. Linkedin serves as a platform for job searching and networking, while TikTok is a highly engaging but distracting entertainment app. With graduation approaching, my Linkedin usage is expected to increase as I actively look for job opportunities. At the same time, TikTok, known for its addictive short-form content, might act as a distraction, reducing the time I spend on my career via LinkedIn.
+By analyzing my screen time data over one year, I aim to:
+•	Understand whether higher Linkedin usage (due to job search efforts) correlates with reduced TikTok engagement, or vice versa.
+•	Identify seasonal trends—for example, whether TikTok usage spikes during academic breaks, while Linkedin usage peaks closer to graduation.
+•	Determine if one platform's increased usage directly affects the time spent on the other.
+ 
+## Project Goal
+The goal of this project is to analyze how my screen time on LinkedIn and TikTok fluctuates throughout my final year of university. By tracking monthly usage trends, I will explore whether professional engagement on LinkedIn and entertainment-driven TikTok usage influence each other. This project will help me understand how to better manage my time and stay focused during the important job search period.
+## Data Analysis
+## 1. Data Preprocessing
+In this phase, the following steps will be taken to ensure the data is clean and ready for analysis:
+•	Cleaning and structuring the monthly screen time data for LinkedIn and TikTok. This includes identifying and handling any inconsistencies or missing data.
+•	Standardizing time units for consistency, such as converting all data to daily averages per month to simplify comparison.
+•	Aligning timestamps to ensure LinkedIn and TikTok data can be compared across different months, allowing us to identify any seasonal trends or patterns in usage.
+## 2. Exploratory Data Analysis (EDA)
+This phase will involve analyzing the overall trends in the usage of LinkedIn and TikTok:
+•	Identifying monthly trends in screen time for both platforms to understand patterns in engagement.
+•	Identifying peak usage months for each platform (e.g., during finals or job application periods for LinkedIn, or summer months for TikTok).
+•	Examining whether TikTok usage increases during stressful academic periods or job search phases to understand if entertainment usage is linked to stress or high workload periods.
+## 3. Correlation Analysis
+This phase will investigate the relationship between LinkedIn and TikTok usage:
+•	Investigating whether increased LinkedIn screen time correlates with decreased TikTok usage (or vice versa). We will explore whether time spent on professional activities impacts time spent on entertainment platforms.
+•	Identifying whether TikTok usage acts as a distraction during peak LinkedIn usage periods (for example, during job search or internship application periods).
+•	Calculating correlation coefficients to measure the strength and direction of the relationship between LinkedIn and TikTok usage over time.
+## 4. Visualization
+To help visualize the trends and relationships, several types of charts will be created:
+•	Line charts comparing monthly LinkedIn and TikTok usage patterns to clearly show fluctuations across the months.
+•	Bar charts that highlight peak usage months for each platform, providing a clear view of when each platform sees the highest engagement.
+•	Scatter plots that analyze the impact of increased job search activity on entertainment-based screen time (i.e., whether a focus on LinkedIn correlates with a drop in TikTok usage).
+By analyzing these trends, the project aims to answer the central question: Does spending more time on LinkedIn (for job searching) mean less time on TikTok, or do they coexist? This understanding is essential for improving time management during the crucial transition period from university to the workforce.
+## 5. Hypothesis Testing
+•	Statistical tests will be used to validate the hypothesis that increased time spent on TikTok correlates with reduced LinkedIn usage, and vice versa. We will test whether there is a significant relationship between the two platforms' usage.
+•	Additionally, we will test whether LinkedIn usage increases during job search periods (with a focus on employment-related tasks) and whether TikTok engagement spikes during low-academic workload periods (e.g., breaks or periods without exams).
+## 6. Conclusion
+At the conclusion of this analysis:
+•	A summary of findings will be provided, discussing whether a trade-off exists between LinkedIn and TikTok usage, and if so, the extent of this trade-off.
+•	The study will also discuss how balancing professional engagement with entertainment impacts productivity, stress levels, and overall time management, offering insights on how students and job-seekers can optimize their use of both platforms during critical phases of their academic and career journey.
+
+
 
