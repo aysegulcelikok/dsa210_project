@@ -1,6 +1,6 @@
 ## DSA 210 PROJECT AYŞEGÜL ÇELİKOK
 ## Motivation
-As a final-year university student, balancing my professional responsibilities and entertainment time is crucial for me. I use Linkedin  as a platform for job search and networking on the other hand TikTok is a highly engaging but distracting entertainment app. With graduation approaching, my Linkedin usage is expected to increase as I actively look for job opportunities. At the same time, TikTok, known for its addictive short-form content, might act as a distraction, reducing the time I spend on my career via Linkedin.
+As a final-year university student, balancing my professional responsibilities and entertainment time is crucial for me. I use Linkedin  as a platform for job search and networking. On the other hand, I use TikTok for entertainment. With graduation approaching, my Linkedin usage is expected to increase as I actively look for job opportunities. At the same time, TikTok, known for its addictive short-form content, might act as a distraction, reducing the time I spend on my career via Linkedin.
 
 By analyzing my screen time data over one year, I aim to:
 
