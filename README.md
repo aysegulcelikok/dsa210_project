@@ -6,32 +6,36 @@ By analyzing my screen time data over one year, I aim to:
 
 Understand whether higher Linkedin usage correlates with reduced TikTok engagement, or vice versa and determining if one platform's increased usage directly affects the time spent on the other.
 
-Identify daily trends—for example, whether TikTok usage peaks during breaks in the day, while Linkedin usage peaks during job application periods.
+Identify daily trends—for example, whether TikTok usage peaks if there is no exam during that day, while Linkedin usage and job application number peaks during job application periods.
 
  
 ## Project Goal
 The goal of this project is to analyze how my screen time on Linkedin and TikTok fluctuates throughout my final year. By tracking daily usage data, I will explore whether professional engagement on Linkedin and entertainment-driven TikTok usage influence each other. This project will enable me to understand how to better manage and spend my time thus to stay focused during the important job search period.
 
+
 ## Data Description
 The dataset comprise daily screen time data for Linkedin and TikTok over one year and includes the following columns:
 
-Date: The specific day of recorded screen time usage.
+Date: The specific calendar day.
 
-Linkedin_ScreenTime (minutes): The total time spent on Linkedin each day.
+LinkedIn_ScreenTime (minutes): The total time spent on LinkedIn on that day.
 
-TikTok_ScreenTime (minutes): The total time spent on TikTok each day.
+TikTok_ScreenTime (minutes): The total time spent on TikTok on that day.
 
-Total_ScreenTime (minutes): The sum of daily screen time across both platforms.
+Day_Type: Whether the day is a "Weekday" or "Weekend".
 
-Day_Type: Categorizzation of ‘Weekday’ or ‘Weekend’ to analyze differences in usage patterns.
+Academic_Events: Indicates whether a significant academic event (e.g., exam) occurred on that day. Values are "Exam" or "None".
 
-Academic_Events: Labels whether significant academic events occurred on that day like exam period etc.
+Time_of_Day_Used: The general time of day when the platforms were accessed — values like "Morning", "Afternoon", "Night".
+
+Jobs_Applied_Count: Number of job applications submitted via LinkedIn on that day.
+
 
 ## Data Analysis
 ## 1. Data Preprocessing
 In this phase, the following steps will be taken to ensure the data is clean and ready for analysis:
 
-•	Cleaning and structuring the daily screen time data for Linkedin and TikTok. This includes identifying inconsistencies or missing data.
+•	Cleaning and structuring the daily screen time data for Linkedin and TikTok. This includes identifying inconsistencies or missing data. Moreover ensuring time data is standardized (in minutes).
 
 •	Standardizing time units for consistency, such as controlling all data is in minutes per day.
 
@@ -42,14 +46,14 @@ This phase will involve analyzing the overall trends in the usage of Linkedin an
 
 •	Identifying daily trends in screen time for both platforms to understand patterns in engagement.
 
-•	Identifying peak usage days for each platform ( job application deadlines, after stressful academic events) and detecting whether TikTok usage increases during stressful academic periods or job search phases to understand if entertainment usage is linked to stress or high workload periods.
+•	Investigate whether LinkedIn usage peaks during job search periods, such as days when job applications are submitted, to understand if professional activity increases during these times. Investigate whether TikTok usage peaks during academic stress periods (e.g., exam days) or during relaxation periods (days without exams and job applications) to understand whether entertainment is used more as a stress-relief tool or during free time.
 
 ## 3. Correlation Analysis
 This phase will investigate the relationship between Linkedin and TikTok usage:
 
 •	Investigating whether increased Linkedin screen time correlates with decreased TikTok usage (or vice versa).
-•	Identifying whether TikTok usage acts as a distraction during peak Linkedin usage periods (for example, during job search or internship application periods).
-
+•	Identifying whether TikTok usage acts as a distraction during peak Linkedin usage periods (for example, during job search or exam periods).
+• Investigate how LinkedIn usage relates to job application behavior.
 •	Calculating correlation coefficients to measure the strength and direction of the relationship between Linkedin and TikTok usage over time.
 
 ## 4. Visualization
@@ -62,15 +66,20 @@ To help visualize the trends and relationships, several types of charts will be 
 •	Scatter plots that analyze the impact of increased job search activity on entertainment-based screen time (i.e., whether a focus on Linkedin correlates with a drop in TikTok usage).
 
 By analyzing these trends, the project aims to answer the central question: Does spending more time on Linkedin (for job searching) mean less time on TikTok, or do they coexist? 
+
 ## 5. Hypothesis Testing
 
 •	Statistical tests will be used to validate the hypothesis that increased time spent on TikTok correlates with reduced Linkedin usage, and vice versa. We will test whether there is a significant relationship between them.
 
-•	Additionally, we will test whether Linkedin usage increases during job search periods (with a focus on employment-related tasks) and whether TikTok engagement peaks during low-academic workload periods (e.g., breaks or periods without exams).
+•	Additionally, we will test whether Linkedin usage increases during job search periods (with a focus on employment-related tasks) and whether TikTok usage is higher during non-exam or low-academic-stress periods.
+
 ## 6. Conclusion
 At the conclusion of this analysis:
 
 •	A summary of findings will be provided and it will also discuss how balancing professional engagement with entertainment impacts productivity, stress levels, and overall time management, offering insights on how students and job-seekers can optimize their use of both platforms during critical phases of their academic and career journey.
+
+
+
 
 
 
