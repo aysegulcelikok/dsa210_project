@@ -54,7 +54,7 @@ This phase will involve analyzing the overall trends in the usage of Linkedin an
 •	Investigate whether TikTok or Linkedin usage peaks during academic stress periods (e.g., exam days) or during relaxation periods (days without exams and job applications) to understand whether entertainment is used more as a stress-relief tool or during free time.
 
 ## 3. Correlation Analysis
-This phase will investigate the relationship between Linkedin and TikTok usage:
+This phase will investigate the relationship between Linkedin and TikTok usage (Pearson Correlation):
 
 •	Investigating whether increased Linkedin screen time correlates with decreased TikTok usage (or vice versa).
 •	Identifying whether TikTok screen time is negatively correlated with academic event days (exam period)
