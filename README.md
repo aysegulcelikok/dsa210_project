@@ -70,13 +70,13 @@ To help visualize the trends and relationships, several types of charts will be 
 •	Bar charts identify peak usage days for each platform, as well as to compare average screen time on different types of days (e.g., job application days, exam days, and non-event days).
 
 • Scatter Plots:
-- LinkedIn Screen Time vs. TikTok Screen Time: This scatter plot will visualize the relationship between TikTok and LinkedIn screen time to see if increased entertainment usage on TikTok correlates with reduced professional engagement on LinkedIn (or vice versa).
+- LinkedIn Screen Time vs. TikTok Screen Time: This scatter plot will visualize the relationship between TikTok and Linkedin screen time to see if increased entertainment usage on TikTok correlates with reduced professional engagement on Linkedin (or vice versa).
   
-- LinkedIn Screen Time vs. Jobs Applied: This scatter plot will examine whether higher LinkedIn screen time is associated with a greater number of job applications, indicating that increased LinkedIn engagement supports job-seeking activity.
+- Linkedin Screen Time vs. Jobs Applied: This scatter plot will examine whether higher Linkedin screen time is associated with a greater number of job applications, indicating that increased Linkedin engagement supports job-seeking activity.
 
 - TikTok Screen Time vs. Exam Days (Academic Events): This scatter plot will explore if TikTok screen time increases during exam days, suggesting that TikTok may be used as a stress-relief mechanism during academic pressure periods.
 
-- LinkedIn Screen Time vs. Exam Days (Academic Events): This scatter plot will analyze how LinkedIn screen time changes during exam days, helping to determine whether academic stress reduces professional engagement or if LinkedIn usage increases due to job search priorities during exams.
+- Linkedin Screen Time vs. Exam Days (Academic Events): This scatter plot will analyze how Linkedin screen time changes during exam days, helping to determine whether academic stress reduces professional engagement or if Linkedin usage increases due to job search priorities during exams.
 
 • Box Plots:
 To compare TikTok and Linkedin screen time distributions across different contextual periods:
