@@ -64,10 +64,9 @@ This phase will investigate the relationship between Linkedin and TikTok usage (
 
 ## 4. Visualization
 To help visualize the trends and relationships, several types of charts will be created:
-
-• Line charts comparing daily Linkedin and TikTok usage patterns to clearly show fluctuations across days.	
-
-•	Bar charts identify peak usage days for each platform, as well as to compare average screen time on different types of days (e.g., job application days, exam days, and non-event days).
+• Heat Map:
+In this heatmap analysis, we aim to visually explore how screen time usage varies across different types of days (Exam Day, Job Application Day, No Event) and time of day (Morning, Evening, Night) for both TikTok and LinkedIn.
+These visualizations will offer both high-level patterns and nuanced insights into how and when each platform is used, and how that usage may relate to academic or professional demands
 
 • Scatter Plots:
 - LinkedIn Screen Time vs. TikTok Screen Time: This scatter plot will visualize the relationship between TikTok and Linkedin screen time to see if increased entertainment usage on TikTok correlates with reduced professional engagement on Linkedin (or vice versa).
@@ -78,6 +77,10 @@ To help visualize the trends and relationships, several types of charts will be 
 
 - Linkedin Screen Time vs. Exam Days (Academic Events): This scatter plot will analyze how Linkedin screen time changes during exam days, helping to determine whether academic stress reduces professional engagement or if Linkedin usage increases due to job search priorities during exams.
 
+•	Bar charts:
+- Identify peak usage days for each platform and also to compare average screen time on different types of days (e.g., job application days, exam days, and non-event days).
+- Visualize the average screen time across different times of the day, allowing us to observe which time periods users tend to engage most with TikTok and Linkedin.
+
 • Box Plots:
 To compare TikTok and Linkedin screen time distributions across different contextual periods:
  – Exam Periods
@@ -85,7 +88,7 @@ To compare TikTok and Linkedin screen time distributions across different contex
  – Non-Event Days
 This will help assess whether TikTok and Linkedin usage increases on low-pressure days (like non-event days) and decreases during high-pressure periods (like exams), indicating a potential coping mechanism.
 
-These visualizations will offer both high-level patterns and nuanced insights into how and when each platform is used, and how that usage may relate to academic or professional demands.
+
 ## 5. Hypothesis Testing
 
 •	Statistical tests will be used to validate the hypothesis that increased time spent on TikTok correlates with reduced Linkedin usage, and vice versa. We will test whether there is a significant relationship between them.
@@ -93,6 +96,8 @@ These visualizations will offer both high-level patterns and nuanced insights in
 •	Secondly, we will test whether Linkedin usage increases during job search periods (with a focus on employment-related tasks) and whether TikTok usage is higher during non-exam or low-academic-stress periods.
 
 •	Thirdly,  we will test whether TikTok and uLinkedin sage increases on days without academic stress (non-exam periods).
+
+•	Lastly, we will test whether Linkedin usage increases during job application days. (The amount of time spent on LinkedIn is higher on job application days compared to days when no job applications are made.)
 
 
 ## 6. Conclusion
