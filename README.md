@@ -64,6 +64,7 @@ This phase will investigate the relationship between Linkedin and TikTok usage (
 
 ## 4. Visualization
 To help visualize the trends and relationships, several types of charts will be created:
+
 • Heat Map:
 In this heatmap analysis, we aim to visually explore how screen time usage varies across different types of days (Exam Day, Job Application Day, No Event) and time of day (Morning, Evening, Night) for both TikTok and LinkedIn.
 These visualizations will offer both high-level patterns and nuanced insights into how and when each platform is used, and how that usage may relate to academic or professional demands
