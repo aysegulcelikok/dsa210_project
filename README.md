@@ -57,20 +57,28 @@ This phase will involve analyzing the overall trends in the usage of Linkedin an
 This phase will investigate the relationship between Linkedin and TikTok usage (Pearson Correlation):
 
 •	Investigating whether increased Linkedin screen time correlates with decreased TikTok usage (or vice versa).
-•	Identifying whether TikTok screen time is negatively correlated with academic event days (exam period)
-•	Identifying whether Linkedin screen time is negatively correlated with academic event days (exam period)
-• Identifying the correlation between Linkedin screen time and job application counts in order to investigate whether professional engagement (i.e., time spent on Linkedin) peaks during active job search days.
-•	Calculating correlation coefficients to measure the strength and direction of the relationship between Linkedin and TikTok usage over time.
 
+•	Identifying whether TikTok screen time is negatively correlated with academic event days (exam period)
+
+•	Identifying whether Linkedin screen time is negatively correlated with academic event days (exam period)
+
+• Identifying the correlation between Linkedin screen time and job application counts in order to investigate whether professional engagement (i.e., time spent on Linkedin) peaks during active job search days.
+
+• Investigate if Linkedin screen time increases over the academic year, particularly as graduation approaches
+
+• Investigate if TikTok screen time decreases over the academic year, indicating a possible shift from entertainment to career focus 
+
+•	Calculating correlation coefficients to measure the strength and direction of the relationship between Linkedin and TikTok usage over time.
+• Pearson correlation coefficients (r) to measure the strength and direction of the relationships.
 ## 4. Visualization
 • Pie Chart
 
 - The number of job applications submitted during the exam period and non-exam days (days with no significant academic events)
 
 • Heat Map:
-To compare the average screen time spent on TikTok and LinkedIn depending on the day type (e.g., weekday or weekend) and the time of day the platforms were used
+To compare the average screen time spent on TikTok and Linkedin depending on the day type (e.g., weekday or weekend) and the time of day the platforms were used
 
-- When TikTok or LinkedIn is used most often during the day.
+- When TikTok or Linkedin is used most often during the day.
 
 - Whether usage patterns differ between weekdays and weekends.
 
@@ -96,17 +104,21 @@ This will help assess whether TikTok and Linkedin usage increases on low-pressur
   
 ## 5. Hypothesis Testing
 
-•  I will test whether Linkedin usage increases during job application days. (The amount of time spent on LinkedIn is higher on job application days compared to days when no job applications are made.)
+H1: Linkedin usage is more likely to occur during working hours (morning to early afternoon), reflecting a professional engagement pattern aligned with standard workday routines.
 
-• I will test whether I watch more TikTok on weekdays compared to weekends.
+H2: TikTok screen time peaks during the night, especially on weekends, indicating increased entertainment-driven usage during leisure periods.
 
-• I will test whether Linkedin screen time is more on weekdays compared to weekends.
+H3: Linkedin usage increases over the final academic year, particularly as graduation approaches, due to heightened job search and career preparation activity.
 
-• I will test whether TikTok screen time increases on days without academic stress (non-exam periods).
+H4: TikTok usage decreases over the final academic year, particularly as graduation approaches, as users may shift focus away from entertainment.
 
-• I will test whether Linkedin screen time increases on days without academic stress (non-exam periods).
+H5: Linkedin screen time is significantly higher on job application days compared to days when no job applications are made, indicating a focused effort on career-related tasks.
 
-•	Test if increased time spent on TikTok correlates with reduced Linkedin usage, and vice versa. 
+H6: Linkedin screen time decreases during exam periods, suggesting reduced professional platform engagement due to academic workload.
+
+H7: TikTok screen time decreases during exam periods, suggesting a decline in entertainment use under academic pressure.
+
+H8: Increased time spent on TikTok negatively correlates with LinkedIn usage, and vice versa — meaning when one platform’s usage goes up, the other tends to go down.
 
 # 6. Conclusion
 At the conclusion of this analysis:
