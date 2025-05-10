@@ -8,6 +8,8 @@ Understand whether higher Linkedin usage correlates with reduced TikTok engageme
 
 Identify daily trends—for example, whether TikTok or Linkedin usage peaks during no exam or exam periods during that day or Linkedin usage and job application number peaks during job application periods.
 
+Note: "Exam period" statement indicates whether I have an exam in that weeks (min 2 weeks and max 4 weeks).
+
  
 ## Project Goal
 The goal of this project is to analyze how my screen time on Linkedin and TikTok fluctuates throughout my final year. By tracking daily usage data, I will explore whether professional engagement on Linkedin and entertainment-driven TikTok usage influence each other. This project will enable me to understand how to better manage and spend my time thus to stay focused during the important job search period.
@@ -70,6 +72,7 @@ This phase will investigate the relationship between Linkedin and TikTok usage (
 
 •	Calculating correlation coefficients to measure the strength and direction of the relationship between Linkedin and TikTok usage over time.
 • Pearson correlation coefficients (r) to measure the strength and direction of the relationships.
+
 ## 4. Visualization
 • Pie Chart
 
@@ -96,7 +99,7 @@ To compare TikTok and Linkedin screen time distributions across different contex
  – Exam Periods
  – Job Search Days
  – Non-Event Days
-This will help assess whether TikTok and Linkedin usage increases on low-pressure days (like non-event days) and decreases during high-pressure periods (like exams), indicating a potential coping mechanism.
+This will help assess whether TikTok and Linkedin usage increases on low-pressure days (like non-event days) and decreases during high-pressure periods (like exam/job application period), indicating a potential coping mechanism.
 
 • Line Chart:
 
@@ -110,17 +113,29 @@ H2: TikTok screen time peaks during the night, especially on weekends, indicatin
 
 H3: Linkedin usage increases over the final academic year, particularly as graduation approaches, due to heightened job search and career preparation activity.
 
-H4: TikTok usage decreases over the final academic year, particularly as graduation approaches, as users may shift focus away from entertainment.
+H4: TikTok usage decreases over the final academic year, particularly as graduation approaches (last quarter of the year), as I may shift my focus away from entertainment.
 
-H5: Linkedin screen time is significantly higher on job application days compared to days when no job applications are made, indicating a focused effort on career-related tasks.
+H5: Linkedin usage decreases over the final academic year, particularly as graduation approaches (last quarter of the year), as I may shift my focus away from entertainment.
 
-H6: Linkedin screen time decreases during exam periods, suggesting reduced professional platform engagement due to academic workload.
+H6: Linkedin screen time is significantly higher on job application days compared to days when no job applications are made, indicating a focused effort on career-related tasks.
 
-H7: TikTok screen time decreases during exam periods, suggesting a decline in entertainment use under academic pressure.
+H7: Linkedin screen time decreases during exam periods, suggesting reduced professional platform engagement due to academic workload.
 
-H8: Increased time spent on TikTok negatively correlates with LinkedIn usage, and vice versa — meaning when one platform’s usage goes up, the other tends to go down.
+H8: TikTok screen time decreases during exam periods, suggesting a decline in entertainment use under academic pressure.
 
-# 6. Conclusion
+H9: Increased time spent on TikTok negatively correlates with LinkedIn usage, and vice versa — meaning when one platform’s usage goes up, the other tends to go down.
+
+# 6. Machine Learning
+
+The target I aim to predict in the machine learning part is the "Academic Events" column—specifically, whether I am in an exam period or not.
+
+To achieve this, I will attempt to predict the presence of an upcoming exam by training multiple models using different algorithms and hyperparameters. I will treat "exam period" as a binary classification task (exam vs. no exam), and use screen time data (LinkedIn and TikTok) and job application activity as input features.
+
+The goal is to see how well various machine learning models can classify whether I am likely to be in an exam period based on patterns in my digital behavior.
+
+
+# 7. Conclusion
+
 At the conclusion of this analysis:
 
 •	A summary of findings will be provided and it will also discuss how balancing professional engagement with entertainment impacts productivity, stress levels, and overall time management, offering insights on how students and job-seekers can optimize their use of both platforms during critical phases of their academic and career journey.
