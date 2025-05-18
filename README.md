@@ -131,7 +131,9 @@ The target I aim to predict in the machine learning part is the "Academic Events
 
 To achieve this, I will attempt to predict the presence of an upcoming exam by training multiple models using different algorithms and hyperparameters. I will treat "exam period" as a binary classification task (exam vs. no exam), and use screen time data (LinkedIn and TikTok) and job application activity as input features.
 
-The goal is to see how well various machine learning models can classify whether I am likely to be in an exam period based on patterns in my digital behavior.
+The goal is to see how well various machine learning models can classify whether I am likely to be in an exam period based on patterns in my digital behavior(classification model).
+
+I will also use regression models (such as Random Forest Regressor) to estimate how many minutes I will spend on LinkedIn or TikTok each day, using inputs like day type, time of usage, academic events, and job applications. These models will help me understand how my screen time shifts between professional and entertainment platforms depending on my academic and career-related activities.
 
 
 # 7. Conclusion
